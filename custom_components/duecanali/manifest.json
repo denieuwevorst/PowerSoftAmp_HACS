@@ -1,11 +1,13 @@
 {
   "domain": "duecanali",
   "name": "Powersoft Duecanali",
-  "version": "0.1.0",
+  "codeowners": ["@denieuwevorst"],
   "config_flow": true,
-  "documentation": "https://www.powersoft.com",
-  "iot_class": "local_polling",
-  "requirements": [],
   "dependencies": [],
-  "codeowners": []
+  "documentation": "https://github.com/denieuwevorst/duecanali-ha",
+  "integration_type": "device",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/denieuwevorst/duecanali-ha/issues",
+  "requirements": [],
+  "version": "0.1.0"
 }
