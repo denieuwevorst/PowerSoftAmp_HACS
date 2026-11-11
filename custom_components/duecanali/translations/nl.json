@@ -1,0 +1,13 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Powersoft Duecanali",
+        "description": "Vul het IP-adres van de versterker in.",
+        "data": { "host": "IP-adres" }
+      }
+    },
+    "error": { "cannot_connect": "Kan geen verbinding maken met de versterker." },
+    "abort": { "already_configured": "Deze versterker is al toegevoegd." }
+  }
+}
